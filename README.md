@@ -120,6 +120,7 @@ Courses | Duration | Effort
 [Introduction to Data Science](https://www.coursera.org/course/datasci)| 8 weeks | 10-12 hours/week
 [Data Science - CS109 from Harvard](http://cs109.github.io/2015/)| 12 weeks | 5-6 hours/week
 [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
+[Applied DS with Python](https://www.coursera.org/specializations/data-science-python)| 16+ weeks | 10-15 hours/week
 
 ### Machine Learning
 Courses | Duration | Effort
@@ -162,6 +163,7 @@ Courses | Duration | Effort
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
+[deeplearning.ai](https://www.coursera.org/specializations/deep-learning)| 12+ weeks | 8-12 hours/week
 
 ### Capstone Project
 - Participate in Kaggle competition
